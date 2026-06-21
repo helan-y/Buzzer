@@ -1,9 +1,10 @@
 # Buzzer
 
 ## About
-
+A set of buzzers for trivia games and slapjack; the main board lights up with the color of whichever buzzer was pressed first.
 
 ## Idea
+I wanted to play random games with my friends! This just determines who pressed their buzzer the fastest. 
 
 ## PCB
 ![pcb front](/Journal%20Images/log_1.3.png)
@@ -25,4 +26,9 @@
 Firmware coded with Arduino IDE.
 
 ## BOM
-- 
+- 1x Xiao ESP32 - C3
+- 8x JST-PH 2-pin 
+- 9x Cherry MX Switches
+- 9x Clear Keycaps Cherry MX
+- 1x LiPo Battery 3.7V 500mAh
+- 4x M2 Screws
